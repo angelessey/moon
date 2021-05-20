@@ -1,0 +1,117 @@
+! ---------------------------------------------------
+! moon by angelessey/@xoblite
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! December 13th, 2020
+! ---------------------------------------------------
+
+style.name:		moon
+style.author:		angelessey
+style.date:		Sun Dec 13 2020
+style.credits:		default style #1 -> xoblite bb5 RC4
+style.comments:		http://xoblite.net/
+style.wallpaper:	(see credits.txt)
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Solid
+toolbar.color: #ffffff
+toolbar.font: IBM Plex Sans/6/Normal
+toolbar.alignment: Center
+toolbar.textColor: #C8C4D5
+toolbar.marginWidth: 5
+toolbar.borderWidth: 0
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: Blank/6/Normal
+toolbar.label.alignment: Center
+toolbar.label.textColor: #C8C4D5
+toolbar.label.marginWidth: 5
+ 
+toolbar.windowLabel.appearance: Flat Solid
+toolbar.windowLabel.color: #ffffff
+toolbar.windowLabel.font: IBM Plex Sans/6/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #2E386D
+toolbar.windowLabel.marginWidth: 5
+toolbar.windowLabel.borderWidth: 0
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: IBM Plex Sans/6/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #2E386D
+toolbar.clock.marginWidth: 5
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #ffffff
+toolbar.button.marginWidth: 5
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #ffffff
+toolbar.button.pressed.picColor: #ffffff
+toolbar.button.pressed.marginWidth: 5
+toolbar.button.pressed.borderWidth: 0
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color: #495359
+menu.title.font: Blank/7/Normal
+menu.title.alignment: Center
+menu.title.textColor: #DFA100
+menu.title.shadowColor: #DFA100
+menu.title.marginWidth: 1
+menu.title.borderWidth: 0
+
+menu.frame.appearance: Flat Solid
+menu.frame.color: #495359
+menu.frame.font: IBM Plex Sans/6/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #779097
+menu.frame.disabledColor: #ffffff
+menu.frame.bulletColor: #ffffff
+menu.frame.marginWidth: 5
+menu.frame.borderWidth: 0
+menu.frame.borderColor: #1B1B1B
+
+menu.active.appearance: Flat Solid
+menu.active.color: #495359
+menu.active.textColor: #EB3C1A
+menu.active.bulletColor: #1B1B1B
+menu.active.marginWidth: 0
+menu.active.borderWidth: 0
+
+menu.grip.appearance: Flat Solid
+menu.grip.color: #495359
+menu.grip.font: Blank/7/Normal
+menu.grip.alignment: Center
+menu.grip.textColor: #ffffff
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #DFA100
+menu.indicator.marginWidth: 2
+menu.indicator.borderWidth: 0
+
+menu.separator.appearance: Flat Solid
+menu.separator.color1: #495359
+
+menu.bullet: None
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #000000
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #000000
+console.textColor: #ffffff
+console.buttonColor: #ffffff
+console.font: SF Pro Display/8/Normal
+
+! --------------------------------------------------
